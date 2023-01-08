@@ -1,2 +1,2 @@
-# cli-typescript-template
-A cli template using typescript
+# BiliBili-Bot
+A bot for bilibili.com
